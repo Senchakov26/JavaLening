@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carstore xmlns:real="http://testproject.developersgroup1.companyname/departament2/namespace/real">
+<carstore xmlns:toy="http://testproject.androidcurse.synergy/departamentofandroid/namespace/toy">
+<book>
+    <title>Harry Potter and Philosophean's Stone</title>
+    <title>J. K. Rowlling</title>
+    <year>2000</year>
+</book>
+
+<carstore>
+        <real:car category="truck">
+            <model lang="en">Scania R770</model>
+            <model lang="esp">Scania R770 muchacho</model>
+            <year>1990</year>
+            <price currence="US dollar">20000.00</price>
+            <price currence="Pesso">20000000000000.00</price>
+        </car>
+        <toy:car category="sedan">
+            <model lang="en">Ford Fokus</model>
+            <year>2019</year>
+            <price currence="US dollar">20000.00</price>
+        </car>
+        <real:car category="sport">
+            <model lang="en">Ferrari</model>
+            <year>2021</year>
+            <price currence="US dollar">20000000000000.00</price>
+        </car>
+        <real:motocycle>
+            <year>2017</year>
+            <title lang="en">Yamaha R7</title>
+            <price currence="Rbbles">100000000</price>
+            <Owner>Vasia Pupkov</Owner>
+        </motocycle>
+        <toy:motocycle>
+            <title lang="en">Kawasaki S7</title>
+            <year>2017</year>
+            <price currence="Rbbles">100000000</price>
+            <Owner>Vasia Derevlev</Owner>
+        </motocycle>
+</carstore>
