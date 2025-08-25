@@ -1,4 +1,4 @@
-# JavaLearning and Kotlin learning
+# JavaLearning and KotlinLearning
 ## lesson 22
 ### InnerClassLearning
 ***
